@@ -30,7 +30,7 @@ The train dataset contains 5110 rows and 12 columns, here is a bit description o
 * SFFS
 # Project Report
 [Report](https://drive.google.com/file/d/1TljUY_vpwSKDu6bNkhEeGyA_FqXMM1mW/view?usp=sharing)
-# Team Memebers
+# Collaborators
 * Aasrish Vinay Perumalla
 * Vedasamhitha Challapalli
 * R.Amshu Naik
